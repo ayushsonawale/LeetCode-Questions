@@ -17,5 +17,5 @@ int main(){
     int n;
     cin>>n;
 
-    s1.fib(); // function call
+    s1.fib(n); // function call
 }
