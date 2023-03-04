@@ -1,3 +1,7 @@
+#include<iostream>
+#include<cmath>
+using namespace std;
+
 class Solution {
 public:
     bool isPowerOfTwo(int n) {
